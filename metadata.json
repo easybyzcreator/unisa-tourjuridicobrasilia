@@ -1,0 +1,8 @@
+{
+  "name": "UNISA - Tour juridico Brasilia",
+  "description": "Apresentação e guia interativo do Tour Jurídico em Brasília (DF) para estudantes de Direito da UNISA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

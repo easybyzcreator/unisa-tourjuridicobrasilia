@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "UNISA - Tour juridico Brasilia",
+  "short_name": "UNISA BSB",
+  "description": "Apresentação e guia interativo do Tour Jurídico em Brasília (DF) para estudantes de Direito da UNISA.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#083904",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/35r0pnwm/PWA-BSB.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/35r0pnwm/PWA-BSB.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/35r0pnwm/PWA-BSB.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
